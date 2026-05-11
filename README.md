@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Devesh5553/problems/tree/master/0199-binary-tree-right-side-view) |
+## Array
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Devesh5553/problems/tree/master/2553-separate-the-digits-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Devesh5553/problems/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
