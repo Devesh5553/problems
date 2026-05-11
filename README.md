@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Devesh5553/problems/tree/master/0069-sqrtx) |
 | [0450-delete-node-in-a-bst](https://github.com/Devesh5553/problems/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Devesh5553/problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Devesh5553/problems/tree/master/2553-separate-the-digits-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Devesh5553/problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
