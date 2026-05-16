@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Devesh5553/problems/tree/master/0061-rotate-list) |
+| [0283-move-zeroes](https://github.com/Devesh5553/problems/tree/master/0283-move-zeroes) |
 ## Tree
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devesh5553/problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/Devesh5553/problems/tree/master/0283-move-zeroes) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Devesh5553/problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Devesh5553/problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Devesh5553/problems/tree/master/2784-check-if-array-is-good) |
