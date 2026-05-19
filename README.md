@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Devesh5553/problems/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/Devesh5553/problems/tree/master/0283-move-zeroes) |
+| [2540-minimum-common-value](https://github.com/Devesh5553/problems/tree/master/2540-minimum-common-value) |
 ## Tree
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Devesh5553/problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Devesh5553/problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Devesh5553/problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2540-minimum-common-value](https://github.com/Devesh5553/problems/tree/master/2540-minimum-common-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devesh5553/problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Devesh5553/problems/tree/master/0283-move-zeroes) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Devesh5553/problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2540-minimum-common-value](https://github.com/Devesh5553/problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Devesh5553/problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Devesh5553/problems/tree/master/2784-check-if-array-is-good) |
 ## Simulation
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Devesh5553/problems/tree/master/0451-sort-characters-by-frequency) |
+| [2540-minimum-common-value](https://github.com/Devesh5553/problems/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Devesh5553/problems/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
