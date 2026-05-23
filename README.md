@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Devesh5553/problems/tree/master/0283-move-zeroes) |
 | [1046-last-stone-weight](https://github.com/Devesh5553/problems/tree/master/1046-last-stone-weight) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Devesh5553/problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Devesh5553/problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devesh5553/problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2540-minimum-common-value](https://github.com/Devesh5553/problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Devesh5553/problems/tree/master/2553-separate-the-digits-in-an-array) |
