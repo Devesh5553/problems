@@ -97,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Devesh5553/problems/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Devesh5553/problems/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Devesh5553/problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh5553/problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Devesh5553/problems/tree/master/0451-sort-characters-by-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Devesh5553/problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh5553/problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
