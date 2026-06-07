@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Devesh5553/problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devesh5553/problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Devesh5553/problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh5553/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devesh5553/problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devesh5553/problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Devesh5553/problems/tree/master/0283-move-zeroes) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh5553/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devesh5553/problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
