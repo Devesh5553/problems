@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Devesh5553/problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devesh5553/problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Devesh5553/problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devesh5553/problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Devesh5553/problems/tree/master/0001-two-sum) |
 | [0355-design-twitter](https://github.com/Devesh5553/problems/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Devesh5553/problems/tree/master/0451-sort-characters-by-frequency) |
 | [2540-minimum-common-value](https://github.com/Devesh5553/problems/tree/master/2540-minimum-common-value) |
