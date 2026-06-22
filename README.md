@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Devesh5553/problems/tree/master/0001-two-sum) |
 | [0355-design-twitter](https://github.com/Devesh5553/problems/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Devesh5553/problems/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/Devesh5553/problems/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/Devesh5553/problems/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Devesh5553/problems/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Devesh5553/problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Devesh5553/problems/tree/master/0014-longest-common-prefix) |
 | [0451-sort-characters-by-frequency](https://github.com/Devesh5553/problems/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/Devesh5553/problems/tree/master/1189-maximum-number-of-balloons) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Devesh5553/problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh5553/problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Devesh5553/problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Devesh5553/problems/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/Devesh5553/problems/tree/master/1189-maximum-number-of-balloons) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devesh5553/problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Design
 |  |
