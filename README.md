@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Devesh5553/problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Devesh5553/problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Devesh5553/problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Devesh5553/problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2540-minimum-common-value](https://github.com/Devesh5553/problems/tree/master/2540-minimum-common-value) |
 ## Binary Tree
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Devesh5553/problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh5553/problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devesh5553/problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Devesh5553/problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2540-minimum-common-value](https://github.com/Devesh5553/problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Devesh5553/problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Devesh5553/problems/tree/master/2574-left-and-right-sum-differences) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Devesh5553/problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Devesh5553/problems/tree/master/0367-valid-perfect-square) |
 | [0973-k-closest-points-to-origin](https://github.com/Devesh5553/problems/tree/master/0973-k-closest-points-to-origin) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Devesh5553/problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh5553/problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devesh5553/problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh5553/problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Devesh5553/problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh5553/problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Devesh5553/problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 ## Sorting
 |  |
 | ------- |
