@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Devesh5553/problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Devesh5553/problems/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Devesh5553/problems/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Devesh5553/problems/tree/master/0973-k-closest-points-to-origin) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Devesh5553/problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh5553/problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh5553/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0337-house-robber-iii](https://github.com/Devesh5553/problems/tree/master/0337-house-robber-iii) |
+| [0509-fibonacci-number](https://github.com/Devesh5553/problems/tree/master/0509-fibonacci-number) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devesh5553/problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
@@ -270,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Devesh5553/problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devesh5553/problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Devesh5553/problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Devesh5553/problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
