@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Devesh5553/problems/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/Devesh5553/problems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devesh5553/problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Devesh5553/problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Devesh5553/problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Devesh5553/problems/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Devesh5553/problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Devesh5553/problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Devesh5553/problems/tree/master/2390-removing-stars-from-a-string) |
 ## Segment Tree
 |  |
