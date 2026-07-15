@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Devesh5553/problems/tree/master/0973-k-closest-points-to-origin) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Devesh5553/problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh5553/problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Devesh5553/problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devesh5553/problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -291,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Devesh5553/problems/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Devesh5553/problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
