@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh5553/problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Devesh5553/problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Devesh5553/problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh5553/problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh5553/problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devesh5553/problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Devesh5553/problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Devesh5553/problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Devesh5553/problems/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Devesh5553/problems/tree/master/0973-k-closest-points-to-origin) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh5553/problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Devesh5553/problems/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh5553/problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Devesh5553/problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -300,5 +302,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh5553/problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Devesh5553/problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
