@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Devesh5553/problems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Devesh5553/problems/tree/master/0022-generate-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Devesh5553/problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devesh5553/problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Devesh5553/problems/tree/master/0451-sort-characters-by-frequency) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Devesh5553/problems/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devesh5553/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0337-house-robber-iii](https://github.com/Devesh5553/problems/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/Devesh5553/problems/tree/master/0509-fibonacci-number) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Devesh5553/problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Devesh5553/problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Devesh5553/problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Devesh5553/problems/tree/master/0046-permutations) |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh5553/problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Devesh5553/problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
