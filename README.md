@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Devesh5553/problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Devesh5553/problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Devesh5553/problems/tree/master/2390-removing-stars-from-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Devesh5553/problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Devesh5553/problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh5553/problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Devesh5553/problems/tree/master/3612-process-string-with-special-operations-i) |
