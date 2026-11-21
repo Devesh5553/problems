@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Devesh5553/problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh5553/problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Devesh5553/problems/tree/master/3612-process-string-with-special-operations-i) |
+| [4102-count-valid-substrings-i](https://github.com/Devesh5553/problems/tree/master/4102-count-valid-substrings-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Devesh5553/problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devesh5553/problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4102-count-valid-substrings-i](https://github.com/Devesh5553/problems/tree/master/4102-count-valid-substrings-i) |
 ## Prefix Sum
 |  |
 | ------- |
