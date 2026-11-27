@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Devesh5553/problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Devesh5553/problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Devesh5553/problems/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Devesh5553/problems/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/Devesh5553/problems/tree/master/0131-palindrome-partitioning) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Devesh5553/problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devesh5553/problems/tree/master/0424-longest-repeating-character-replacement) |
